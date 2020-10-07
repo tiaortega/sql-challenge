@@ -2,7 +2,7 @@
 SQL - Employee Database: A Mystery in Two Parts
 
 ## Background
-In this assignment I was to perform the role as a Data Engineer and Data Analyst. This involved  a research project on employees of the corporation, Pewlett Hackard from the 1980s and 1990s. I designed the tables to hold data in the CSVs. I imported the CSVs into a SQL database. Finally, I answered relative questions from the data.
+In this assignment I was to perform the role as a Data Engineer and Data Analyst. This involved  a research project on employees of the corporation, Pewlett Hackard from the 1980s and 1990s. I designed the tables to hold data in the CSVs. I imported the CSVs into a SQL database. Finally, I answered relative questions from the data and created visualizations.
 
 ## The Beginning
 1) Created a new repository called, "sql_challenge".
